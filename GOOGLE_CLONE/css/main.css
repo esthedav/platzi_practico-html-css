@@ -28,3 +28,11 @@ nav .nav-right-section a {
     margin-right: 10px;
     color: #000;
 }
+nav .nav-right-section .menu-icon {
+    background-image: url('../assets/bxs-grid.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 25px;
+    height: 25px;
+}
