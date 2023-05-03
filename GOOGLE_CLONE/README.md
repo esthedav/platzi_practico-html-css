@@ -11,3 +11,9 @@ Yo en el challenge no utilice el *header* utilice directamente el `nav`, sin emb
 En esta ocasión para resetear estilos, unicamente afectaremos el `body` ya que al ser una pagina sencilla, no es necesario resetear toda la página.
 
 Para la selección de elementos se esta utilizando especificidad, sin alguna metodología
+
+## **Clase 11 - Estilos en la sección principal**
+
+### Propiedad **auto** en *margin* como display block
+
+Cuando manejamos **auto** divide la parte sobrante entre dos
