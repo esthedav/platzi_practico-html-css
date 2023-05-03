@@ -67,9 +67,29 @@ main .main-input-container {
     justify-content: center;
     align-items: center;
 }
+main .main-input-container:hover {
+    box-shadow: 0 1px 6px 0 #20212447;
+    border-color: #dfe1e500;
+}
 main .main-input input {
     width: 450px;
     height: 40px;
     border: none;
     outline: none;
+}
+main .main-input .search-icon {
+    background-image: url("../assets/icon_search.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+}
+main .main-input .micro-icon {
+    background-image: url("../assets/googlemic_clr_24px.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
 }

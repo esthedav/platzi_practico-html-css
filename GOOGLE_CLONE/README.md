@@ -17,3 +17,7 @@ Para la selección de elementos se esta utilizando especificidad, sin alguna met
 ### Propiedad **auto** en *margin* como display block
 
 Cuando manejamos **auto** divide la parte sobrante entre dos
+
+# **outline**
+
+Cuando tenemos el input, y queremos cambien el efecto que se da cuando nos colocamos dentro del input, utilizamos la propiedad outline
